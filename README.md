@@ -1,4 +1,3 @@
-# Coursera_Capstone
 # This notebook will be primarily used for the IBM Data Science Applied Capstone Course.
 # import numpy as np\n
 # import pandas as pd
